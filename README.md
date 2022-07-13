@@ -1,5 +1,5 @@
-# LCD 
-### _Basic Project For Displaying Text_
+# Distance Sensor Ultrasonic
+### _Basic Project For Calculate and Displaying Distance_
 
 ### Components 
 - [x] Arduino Due
